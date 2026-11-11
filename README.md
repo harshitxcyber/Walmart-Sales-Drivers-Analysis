@@ -33,7 +33,7 @@ Sales - Holiday Sales - Sales Growth %
 **Visuals** - Sales trend over time - Top 10 stores by sales - Holiday
 vs. non-holiday sales - Year-wise sales analysis - Sales by month
 
-![Walmart-Sales-Drivers-Analysis](Dashboard.png
+![Walmart-Sales-Drivers-Analysis](Dashboard 1.png
 )
 ### 2. Sales Drivers Analysis
 
