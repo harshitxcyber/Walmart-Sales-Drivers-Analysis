@@ -33,7 +33,7 @@ Sales - Holiday Sales - Sales Growth %
 **Visuals** - Sales trend over time - Top 10 stores by sales - Holiday
 vs. non-holiday sales - Year-wise sales analysis - Sales by month
 
-![Walmart-Sales-Drivers-Analysis](Dashboard 1.png
+![Walmart-Sales-Drivers-Analysis](images/Dashboard%201.png
 )
 ### 2. Sales Drivers Analysis
 
@@ -46,7 +46,7 @@ Average CPI - Average Unemployment - Average Sales per Store
 **Visuals** - Sales by holiday type - Sales vs. temperature - Fuel price
 trend - CPI vs. sales - Average unemployment by year
 
-![Walmart-Sales-Drivers-Analysis](Dashboard.png
+![Walmart-Sales-Drivers-Analysis](images/Dashboard%202.png
 )
 
 > **Note:** The dashboard screenshots above are linked to the suggested
