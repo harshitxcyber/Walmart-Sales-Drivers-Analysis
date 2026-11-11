@@ -46,7 +46,8 @@ Average CPI - Average Unemployment - Average Sales per Store
 **Visuals** - Sales by holiday type - Sales vs. temperature - Fuel price
 trend - CPI vs. sales - Average unemployment by year
 
-![Sales Drivers Analysis Dashboard](images/sales-drivers-analysis.png)
+![Walmart-Sales-Drivers-Analysis](images/WALMART-SALES DRIVERS ANALYSIS DASHBOARD IMAGE.png
+)
 
 > **Note:** The dashboard screenshots above are linked to the suggested
 > image paths. Save your screenshots in the `images` folder using these
